@@ -71,3 +71,5 @@ hosting sẽ gửi thêm 1 *mail* nửa :
 
 <a name="2"></a>
 ## 5. Tạo 2 subdomain cho hosting:
+
+Vào `Hosting->chuyengiaseoweb.net-> tên miền -> subdomain ` để tạo subdomain mới:
